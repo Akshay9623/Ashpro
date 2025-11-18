@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello Akshay
 Welcome ...!
+=======
+Hello Akshay
+>>>>>>> 81ad57af7835c1061096d9b5633df5ab5d2ff84d
